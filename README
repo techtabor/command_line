@@ -1,7 +1,9 @@
-Ez a commandline tutorial elsÅ‘ lÃ©pÃ©se. CÃ©l, hogy az lapvetÅ‘ parancsokkal megismerkedjÃ¼nk, azokat megtanuljuk hasznÃ¡lni. A git Ã©s Ã¡ltalÃ¡ban egy bonyolultabb projekt elkÃ©pzelhetetlen anÃ©lkÃ¼l, hogy a parancssort valamennyire ne ismerjÃ¼k. 
+Ez a command line tutorial kezdö lépése. Cél, hogy az alapvetö parancsokkal megismerkedjetek, azokat megtanuljátok használni. A git és általában egy bonyolultabb projekt elképzelhetetlen anélkül, hogy a parancssort valamennyire ne ismerjétek.
 
-A git bash linux alapÃº parancsssort szimulÃ¡l, ezt fogjuk hasznÃ¡lni (keresÃ©snÃ©l jÃ³l hasznÃ¡lhatÃ³ kulcsszavak: bash, command line, linux, ubuntu, stb.). 
+A git bash linux alapú parancsssort szimulál, ezt fogjátok használni.
 
-A tutorial sorÃ¡n Ã©rdemes a google-t intenzÃ­ven hasznÃ¡lni ahhoz, hogy a megfelelÅ‘ parancsokat megtalÃ¡ld. 
+A tutorial során érdemes a google-t intenzíven használni ahhoz, hogy a megfelelö parancsokat megtaláld (keresésnél jól használható kulcsszavak: bash, command line, linux, ubuntu, stb.).
 
-1. feladat. LÃ©pj be a c, majd onnan a d mappÃ¡ba.
+
+1. feladat. Lépj be a c, majd onnan a d mappába.
+
