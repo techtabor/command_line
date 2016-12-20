@@ -1,0 +1,7 @@
+Ez a commandline tutorial első lépése. Cél, hogy az lapvető parancsokkal megismerkedjünk, azokat megtanuljuk használni. A git és általában egy bonyolultabb projekt elképzelhetetlen anélkül, hogy a parancssort valamennyire ne ismerjük. 
+
+A git bash linux alapú parancsssort szimulál, ezt fogjuk használni (keresésnél jól használható kulcsszavak: bash, command line, linux, ubuntu, stb.). 
+
+A tutorial során érdemes a google-t intenzíven használni ahhoz, hogy a megfelelő parancsokat megtaláld. 
+
+1. feladat. Lépj be a c, majd onnan a d mappába.
