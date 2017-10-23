@@ -1,0 +1,1 @@
+10. feladat. Az itt lévő ./m mappában sok fájl van. Az összes olyan, amelynek nevében szerepel az xyz karaktersorozat az töröld ki.

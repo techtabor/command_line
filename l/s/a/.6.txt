@@ -1,0 +1,4 @@
+6. feladat. 
+Probald ki az echo "1 2 3" parancsot. Ez kiírja az 1 2 3 szamokat. 
+
+Írd ki a kovetkezo karaktereket: " \ . Ha sikerült, akkor mutasd meg egy mentornak, o fogja megmondani a 7. feladat helyét. 

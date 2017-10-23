@@ -1,0 +1,2 @@
+9. feladat. 
+Masold at ennek a mappanak a tartalmat a ./../pp  mappaba. A kovetkezo feladatért abba a mappaba kell menni, mint ami a parancs kapcsoloja volt.

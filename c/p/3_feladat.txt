@@ -1,0 +1,2 @@
+3. feladat. 
+A kovetkezo feladat (./../../g/p/4_feladat.txt) leírasa túl hosszú, de tudjuk, hogy a feladat leírasanak sora tartalmazza a #feladat kifejezést. Hogyan tudjuk ezt megkeresni?

@@ -1,0 +1,4 @@
+2. feladat. 
+Egy parancs altalaban úgy épül fel, hogy az elso szo maga a parancs, a tobbi a paraméter. 
+
+Masold ide a ./../p/ mappaban talalhato 3_feladat.txt fajl tartalmat.
