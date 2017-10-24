@@ -1,2 +1,2 @@
 8. feladat. 
-Egyetlen paranccsal hozd létre az x/y/z/ mappat. A kovetkezo feladatért a megfelelo kapcsolohoz tartozo mappaba kell menni.
+Egyetlen paranccsal hozd létre az x/y/z/ mappat. A kovetkezo feladat abban a mappaban van, aminek a neve megegyezik az ebben a parancsban hasznalt kapcsolo nevevel.
