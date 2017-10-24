@@ -1,4 +1,4 @@
-Ez a command line tutorial kezdö lépése. Cél, hogy az alapvetö parancsokkal megismerkedjetek, azokat megtanuljátok használni. A git és általában egy bonyolultabb projekt elképzelhetetlen anélkül, hogy a parancssort valamennyire ne ismerjétek.
+Ez a command line tutorial kezdo lepese. Cel, hogy az alapveto parancsokkal megismerkedjetek, azokat megtanuljatok hasznalni. A git es altalaban egy bonyolultabb projekt elkepzelhetetlen anelkul, hogy a parancssort valamennyire ne ismerjetek.
 
 A git bash linux alapú parancsssort szimulál, ezt fogjátok használni.
 
