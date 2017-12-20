@@ -4,7 +4,9 @@ A git bash linux alapu parancsssort szimulal, ezt fogjatok hasznalni.
 
 A tutorial soran erdemes a google-t intenziven hasznalni ahhoz, hogy a megfelelo parancsokat megtalald (keresesn�l jol hasznalhato kulcsszavak: bash, command line, linux, ubuntu, stb.).
 
-vs studio proba
+ Toltsd le zip-ként, vagy add ki ezt a parancsot: `git clone https://github.com/techtabor/command_line.git`
+
+VS Studio git integration
 
 1. feladat. Lepj be a c, majd onnan a d mappaba.
 
