@@ -2,8 +2,9 @@ Ez a command line tutorial kezdo lepese. Cel, hogy az alapveto parancsokkal megi
 
 A git bash linux alapu parancsssort szimulal, ezt fogjatok hasznalni.
 
-A tutorial soran erdemes a google-t intenziven hasznalni ahhoz, hogy a megfelelo parancsokat megtalald (keresesnél jol hasznalhato kulcsszavak: bash, command line, linux, ubuntu, stb.).
+A tutorial soran erdemes a google-t intenziven hasznalni ahhoz, hogy a megfelelo parancsokat megtalald (keresesnï¿½l jol hasznalhato kulcsszavak: bash, command line, linux, ubuntu, stb.).
 
+vs studio proba
 
 1. feladat. Lepj be a c, majd onnan a d mappaba.
 
