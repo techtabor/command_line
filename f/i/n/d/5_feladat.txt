@@ -1,2 +1,3 @@
 5. feladat. 
-A kovetkezo feladat a ./l/s/a/ mappaban van. Azonban, hogy a fajl rejtett, hogyan tudjuk mégis megtalalni?
+A kovetkezo feladat a ./../../../../l/s/a/ mappaban van. Azonban, hogy a fajl rejtett, hogyan tudjuk mégis megtalalni?
+
