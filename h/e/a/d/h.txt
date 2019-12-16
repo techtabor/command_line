@@ -1,1 +1,16 @@
-A tutorial lenyegeben veget ert, gratulalunk. Van meg egy extra feladat, itt az a feladat, hogy a x.txt fajlokban lévő egy-egy karaktert fuzd egymás után, és ird ki a konzolra az igy kapott szoveget.
+A tutorial veget ert, gratulalunk. 
+
+Meg egy extra feladat van, ebben a terminal segitsegevel egy karacsonyfat kell kirajzolnod a konzolra. Ha kesz vagy, mutasd meg egy mentornak.
+           *
+          ***
+         *****
+        *******
+       *********
+      ***********
+     *************
+    ***************
+   *****************
+  *******************
+ *********************
+          *** 
+
