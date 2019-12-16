@@ -1,1 +1,1 @@
-head
+A tutorial lenyegeben veget ert, gratulalunk. Van meg egy extra feladat, itt az a feladat, hogy a x.txt fajlokban lévő egy-egy karaktert fuzd egymás után, és ird ki a konzolra az igy kapott szoveget.
