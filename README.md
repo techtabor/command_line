@@ -6,5 +6,5 @@ A tutorial soran erdemes a google-t intenziven hasznalni ahhoz, hogy a megfelelo
 
 Toltsd le zip-ként, vagy add ki ezt a parancsot: `git clone https://github.com/techtabor/command_line.git`
 
-1. feladat. Lepj be a c, majd onnan a d mappaba.
+1. feladat. Lépj be a c, majd onnan a d mappába.
 
