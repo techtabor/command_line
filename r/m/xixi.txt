@@ -9825,7 +9825,7 @@ része. Aztán a pantalló térdben megroggyant, és terebélyes ülep takarta e
 - Itthon vagy, Alojzij? - hangzott a nadrág fölött, az ablakon át.
 - Tessék, már kezdődik - súgta a Mester.
 Margarita az ablakhoz lépett.
-A következő kihívás a ./../../../h/e/a/d/ mappában van.
+A következő kihívás a ./../../h/e/a/d/ mappában van.
 - Alojzijt tegnap letartóztatták. Ki keresi? Szabad a nevét?
 A térdek, az ülep abban a pillanatban eltűnt az ablak elől, a kiskapu bekattant, s ezek után
 rend és csend honolt odakinn. Margarita megint a díványra vágta magát, és addig kacagott,

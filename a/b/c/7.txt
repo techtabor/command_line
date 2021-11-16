@@ -1,9 +1,9 @@
-Hozz létre egy fajlt mondoka.txt néven. A fajl tartalma legyen a kovetkezo:
-Egy – megerett a meggy,
-Ketto – csipkebokor vesszo,
-Harom – te vagy az en parom,
-Negy – te kis leany hova megy,
+Hozz létre egy fajlt mondoka.txt néven. A fájl tartalma legyen a következő:
+Egy – megérett a meggy,
+Kettő – csipkebokor vessző,
+Három – te vagy az én párom,
+Négy – te kis leány hová mégy,
 
-Ha kesz vagy, akkor ird bele ket uj sorba a kovetkezo ket sort (az echo parancs segítségével). 
+Ha kész vagy, akkor írd bele két új sorba a következő két sort (az echo parancs segítségével). 
 
-Ha sikerült, akkor mutasd meg egy mentornak, o fogja megmondani a kovetkezo feladat helyet. 
+Ha sikerült, akkor mutasd meg egy mentornak, ő fogja megmondani a következő feladat helyét. 

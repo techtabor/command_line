@@ -1,6 +1,6 @@
-A tutorial veget ert, gratulalunk. 
+A tutorial véget ért, gratulálunk. 
 
-Meg egy extra feladat van, ebben a terminal segitsegevel egy karacsonyfat kell kirajzolnod a konzolra. Ha kesz vagy, mutasd meg egy mentornak.
+Még egy extra feladat van, ebben a terminal segítségével egy karácsonyfát kell kirajzolnod a konzolra. Ha kész vagy, mutasd meg egy mentornak.
            *
           ***
          *****

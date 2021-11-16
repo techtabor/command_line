@@ -1,1 +1,1 @@
-10. feladat. Az itt lévő m mappában sok fájl van. Az összes olyan, amelynek nevében szerepel az xyz karaktersorozat az töröld ki.
+10. feladat. Az itt lévő m mappában sok fájl van. Az összes olyat, amelynek nevében szerepel az xyz karaktersorozat azt töröld ki. A következő feladat a törlés után megmaradt fájl első sorában van. 

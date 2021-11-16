@@ -1,2 +1,2 @@
 9. feladat. 
-Masold at ennek a mappanak a tartalmat a ./../pp  mappaba. A kovetkezo feladatért abba a mappaba kell menni, mint ami a parancs kapcsoloja volt.
+Másold át ennek a mappának a tartalmát a ./../pp  mappába. A következő feladatért abba a mappába kell menni (szintén a gyökérből indulva), mint ami a parancs kapcsoloja volt.
